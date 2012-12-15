@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body {
+	background-color: #F0F;
+}
+a:link {
+	color: #0F0;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #F00;
+}
+a:active {
+	text-decoration: none;
+}
+</style>
+</head>
+
+<body>
+	<div class="wrapper">
+<div class="navigation"><table width="100%" border="1">
+  <tr>
+    <td><div align="center"><a href="../Pages/Foods.html">Foods</a></div></td>
+    <td><div align="center"><a href="../Pages/Places.html">Places</a></div></td>
+    <td><div align="center"><a href="../Pages/Things.html">Things </a></div></td>
+    <td><div align="center"><a href="../Pages/People.html">People</a></div></td>
+    <td><div align="center"><a href="../Pages/other.html">Miscellaneous</a></div></td>
+    <td><div align="center"><a href="../home.html">Home</a></div></td>
+  </tr>
+</table>
+
+        </div>
+        <div class="content">
+        <!-- TemplateBeginEditable name="Content" -->	
+        <p>This is placeholder content</p>
+        <p>&nbsp;</p>
+        <!-- TemplateEndEditable -->
+<div/>
+        <div class="footer">
+        <div/>
+	<div/>
+</body>
+</html>
